@@ -1,7 +1,7 @@
 {
-  "test": {
-    "asdsad": 1,
-    "asdsa": true      
-
+  "banner": {
+    "is_active": false,
+    "img_url": "https://saddsad.com/asdsad.png",
+    "link_to": "/sadasd"
   }
 }
