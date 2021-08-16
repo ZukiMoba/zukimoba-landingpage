@@ -1,3 +1,5 @@
 {
-  "asdasd": true
+  "asdasd": {
+    "asdsad": true
+  }
 }
