@@ -11,16 +11,12 @@
       "link_to": "https://maxtech.company/"
     },
     {
-      "img_url": "https://jlaunchpad.com/",
-      "link_to": "/images/partner/launchpad.svg"
+      "img_url": "/images/partner/launchpad.svg",
+      "link_to": "https://jlaunchpad.com/"
     },
     {
       "img_url": "/images/partner/horachain.svg",
       "link_to": "https://horachain.com/"
-    },
-    {
-      "img_url": "/images/partner/horachain.svg",
-      "link_to": "https://airdropalert.com/"
     },
     {
       "img_url": "/images/partner/audrog.svg",
