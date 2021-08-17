@@ -51,31 +51,31 @@
       "label": "Twitter",
       "img_url": "/images/social/twitter.svg",
       "link_to": "https://twitter.com/VeroFarmGames",
-      "target": "_blank",
+      "target": "_blank"
     },
     {
       "label": "Reddit",
       "img_url": "/images/social/any.svg",
       "link_to": "https://www.reddit.com/r/VeroFarmGame",
-      "target": "_blank",
+      "target": "_blank"
     },
     {
       "label": "Discord Group",
       "img_url": "/images/social/discord-group.svg",
       "link_to": "https://discord.com/channels/872066519008411699/872066519008411701",
-      "target": "_blank",
+      "target": "_blank"
     },
     {
       "label": "Telegram",
       "img_url": "/images/social/telegram.svg",
       "link_to": "https://t.me/VeroFarm",
-      "target": "_blank",
+      "target": "_blank"
     },
     {
       "label": "Telegram Group",
       "img_url": "/images/social/telegram-group.svg",
       "link_to": "https://t.me/VeroFarmGroup",
-      "target": "_blank",
+      "target": "_blank"
     }
   ]
 }
