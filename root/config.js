@@ -46,6 +46,18 @@
       "link_to": "https://www.facebook.com/VeroFarmGames",
       "target": "_blank",
       "width": "40px"
+    },
+    {
+      "label": "Twitter",
+      "img_url": "/images/social/twitter.svg",
+      "link_to": "https://twitter.com/VeroFarmGames",
+      "target": "_blank"
+    },
+    {
+      "label": "Reddit",
+      "img_url": "/images/social/any.svg",
+      "link_to": "https://www.reddit.com/r/VeroFarmGame",
+      "target": "_blank"
     }
   ]
 }
