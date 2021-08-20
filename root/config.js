@@ -2,7 +2,7 @@
   "banner": {
     "is_active": true,
     "accept_close": true,
-    "img_url": "https://gblobscdn.gitbook.com/assets%2F-MgFTOFPEgwGG-QnG1UN%2F-MhXz2IiWfe4QPnwlbLp%2F-MhXzG-w4eLwhsblL7s9%2Fbanner-game-2-01%5B1%5D.png?alt=media&token=9a30f7e6-dafc-4c54-8a91-ff0705a7ef15",
+    "img_url": "https://raw.githubusercontent.com/VeroFarm/Vero-Farm-Config/main/root/assets/banner-game.png?token=ATCSTPZ5AJB2P4T532U34FDBD7EQM",
     "link_to": "https://docs.verofarm.com/introduction/transparent/ido-whitelists"
   },
   "partner": [
