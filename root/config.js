@@ -8,9 +8,9 @@
   "partner": [
     {
       "response": {
-        "xs": 12,
-        "sm": 6,
-        "xxl": 6,
+        "xs": "12",
+        "sm": "6",
+        "xxl": "6"
       },
       "img_url": "/images/partner/maxtech.svg",
       "link_to": "https://maxtech.company/"
