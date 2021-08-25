@@ -7,6 +7,11 @@
   },
   "partner": [
     {
+      "response": {
+        "xs": 12,
+        "sm": 6,
+        "xxl": 6,
+      },
       "img_url": "/images/partner/maxtech.svg",
       "link_to": "https://maxtech.company/"
     },
@@ -37,6 +42,10 @@
     {
       "img_url": "/images/partner/ventures.svg",
       "link_to": "https://ssventures.capital/"
+    },
+    {
+      "img_url": "/images/partner/bb-community.svg",
+      "link_to": "#"
     }
   ],
   "footer": [
