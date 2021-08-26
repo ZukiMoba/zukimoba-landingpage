@@ -46,6 +46,14 @@
     {
       "img_url": "/images/partner/bb-community.svg",
       "link_to": "#"
+    },
+    {
+      "img_url": "https://raw.githubusercontent.com/VeroFarm/Vero-Farm-Config/82f9471c590e54427f369133480e8f6a85c2f43f/root/assets/c88.svg?token=ATCSTPZSIUL2D2XWIPADUL3BE4HFE",
+      "link_to": "#"
+    },
+    {
+      "img_url": "https://raw.githubusercontent.com/VeroFarm/Vero-Farm-Config/82f9471c590e54427f369133480e8f6a85c2f43f/root/assets/revel-lab.svg?token=ATCSTPZBV4AF3OKSJUSSEF3BE4HLG",
+      "link_to": "#"
     }
   ],
   "footer": [
