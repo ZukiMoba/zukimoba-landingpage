@@ -88,5 +88,8 @@
       "link_to": "https://t.me/VeroFarmGroup",
       "target": "_blank"
     }
-  ]
+  ],
+ "shop": {
+   "start_buy": "Mon Sep 27 2021 14:00:00 GMT"
+ }
 }
