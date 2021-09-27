@@ -91,6 +91,6 @@
     }
   ],
  "shop": {
-   "vero_start_buy": "Mon Sep 27 2021 10:20:00 GMT"
+   "vero_start_buy": "Mon Sep 27 2021 09:50:00 GMT"
  }
 }
