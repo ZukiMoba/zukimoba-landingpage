@@ -1,5 +1,5 @@
 {
-  "vero_intro_sound": false,
+  "vero_intro_sound": true,
   "banner": {
     "is_active": true,
     "accept_close": true,
@@ -91,6 +91,6 @@
     }
   ],
  "shop": {
-   "vero_start_buy": "Mon Sep 27 2021 12:00:00 GMT"
+   "vero_start_buy": "Mon Sep 27 2021 14:00:00 GMT"
  }
 }
