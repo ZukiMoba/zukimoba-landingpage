@@ -60,15 +60,27 @@
   "footer": [
     {
       "label": "Facebook",
-      "img_url": "/images/social/facebook.svg",
-      "link_to": "https://www.facebook.com/VeroFarmGames",
+      "img_url": "/images2/socials/facebook.png",
+      "link_to": "https://www.facebook.com/ZukiMoba/",
       "target": "_blank",
       "width": "40px"
     },
     {
+      "label": "Youtube",
+      "img_url": "/images2/socials/youtube.png",
+      "link_to": "#",
+      "target": "_blank"
+    },
+     {
+      "label": "Google",
+      "img_url": "/images2/socials/google.png",
+      "link_to": "#",
+      "target": "_blank"
+    },
+    {
       "label": "Twitter",
-      "img_url": "/images/social/twitter.svg",
-      "link_to": "https://twitter.com/VeroFarmGames",
+      "img_url": "/images2/socials/twitter.png",
+      "link_to": "https://twitter.com/ZukiMoba",
       "target": "_blank"
     },
     {
@@ -78,15 +90,9 @@
       "target": "_blank"
     },
     {
-      "label": "Telegram",
-      "img_url": "/images/social/telegram.svg",
-      "link_to": "https://t.me/VeroFarm",
-      "target": "_blank"
-    },
-    {
-      "label": "Telegram Group",
-      "img_url": "/images/social/telegram-group.svg",
-      "link_to": "https://t.me/VeroFarmGroup",
+      "label": "Linkdin",
+      "img_url": "/images2/socials/linkdin.png",
+      "link_to": "https://www.linkedin.com/company/ZukiMoba",
       "target": "_blank"
     }
   ],
