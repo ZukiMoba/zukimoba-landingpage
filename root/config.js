@@ -86,7 +86,7 @@
     {
       "label": "Reddit",
       "img_url": "/images/social/any.svg",
-      "link_to": "https://www.reddit.com/r/VeroFarmGame",
+      "link_to": "https://www.reddit.com/r/ZukiMoba",
       "target": "_blank"
     },
     {
