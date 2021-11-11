@@ -124,12 +124,6 @@
       "img_url": "/images/socials/pinterest.png",
       "link_to": "https://www.pinterest.com/ZukiMoba/",
       "target": "_blank"
-    },
-    {
-        "label": "Substack",
-      "img_url": "/images/socials/substack.png",
-      "link_to": "https://zukimoba.substack.com/",
-      "target": "_blank"
     }
   ],
  "shop": {
