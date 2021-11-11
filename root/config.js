@@ -60,26 +60,26 @@
   "footer": [
     {
       "label": "Facebook",
-      "img_url": "/images2/socials/facebook.png",
+      "img_url": "/images/socials/facebook.png",
       "link_to": "https://www.facebook.com/ZukiMoba/",
       "target": "_blank",
       "width": "40px"
     },
     {
       "label": "Youtube",
-      "img_url": "/images2/socials/youtube.png",
+      "img_url": "/images/socials/youtube.png",
       "link_to": "#",
       "target": "_blank"
     },
      {
       "label": "Google",
-      "img_url": "/images2/socials/google.png",
+      "img_url": "/images/socials/google.png",
       "link_to": "#",
       "target": "_blank"
     },
     {
       "label": "Twitter",
-      "img_url": "/images2/socials/twitter.png",
+      "img_url": "/images/socials/twitter.png",
       "link_to": "https://twitter.com/ZukiMoba",
       "target": "_blank"
     },
@@ -91,7 +91,7 @@
     },
     {
       "label": "Linkdin",
-      "img_url": "/images2/socials/linkdin.png",
+      "img_url": "/images/socials/linkdin.png",
       "link_to": "https://www.linkedin.com/company/ZukiMoba",
       "target": "_blank"
     }
