@@ -85,7 +85,7 @@
     },
     {
       "label": "Reddit",
-      "img_url": "/images/social/any.svg",
+      "img_url": "/images/social/wechat.png",
       "link_to": "https://www.reddit.com/r/ZukiMoba",
       "target": "_blank"
     },
