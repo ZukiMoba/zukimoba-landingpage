@@ -94,6 +94,42 @@
       "img_url": "/images/socials/linkdin.png",
       "link_to": "https://www.linkedin.com/company/ZukiMoba",
       "target": "_blank"
+    },
+    {
+      "label": "Telegram",
+      "img_url": "/images/socials/telegram.png",
+      "link_to": "https://t.me/ZukiMoba",
+      "target": "_blank"
+    },
+    {
+      "label": "Discord",
+      "img_url": "/images/socials/discord.png",
+      "link_to": "https://discord.com/invite/dcNf3tPCJa",
+      "target": "_blank"
+    },
+    {
+      "label": "Reddit",
+      "img_url": "/images/socials/reddit.png",
+      "link_to": "https://www.reddit.com/r/ZukiMoba/",
+      "target": "_blank"
+    },
+    {
+      "label": "Instagram",
+      "img_url": "/images/socials/instagram.png",
+      "link_to": "https://www.instagram.com/accounts/login/",
+      "target": "_blank"
+    },
+    {
+      "label": "Pinterest",
+      "img_url": "/images/socials/pinterest.png",
+      "link_to": "https://www.pinterest.com/ZukiMoba/",
+      "target": "_blank"
+    },
+    {
+        "label": "Substack",
+      "img_url": "/images/socials/substack.png",
+      "link_to": "https://zukimoba.substack.com/",
+      "target": "_blank"
     }
   ],
  "shop": {
