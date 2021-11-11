@@ -66,18 +66,6 @@
       "width": "40px"
     },
     {
-      "label": "Youtube",
-      "img_url": "/images/socials/youtube.png",
-      "link_to": "#",
-      "target": "_blank"
-    },
-     {
-      "label": "Google",
-      "img_url": "/images/socials/google.png",
-      "link_to": "#",
-      "target": "_blank"
-    },
-    {
       "label": "Twitter",
       "img_url": "/images/socials/twitter.png",
       "link_to": "https://twitter.com/ZukiMoba",
@@ -123,6 +111,12 @@
       "label": "Pinterest",
       "img_url": "/images/socials/pinterest.png",
       "link_to": "https://www.pinterest.com/ZukiMoba/",
+      "target": "_blank"
+    },
+    {
+      "label": "Tumblr",
+      "img_url": "/images/socials/tumblr.png",
+      "link_to": "https://www.tumblr.com/blog/view/zukimoba",
       "target": "_blank"
     }
   ],
