@@ -72,12 +72,6 @@
       "target": "_blank"
     },
     {
-      "label": "Reddit",
-      "img_url": "/images/socials/wechat.png",
-      "link_to": "https://www.reddit.com/r/ZukiMoba",
-      "target": "_blank"
-    },
-    {
       "label": "Linkdin",
       "img_url": "/images/socials/linkdin.png",
       "link_to": "https://www.linkedin.com/company/ZukiMoba",
