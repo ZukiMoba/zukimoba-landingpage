@@ -3,8 +3,8 @@
   "banner": {
     "is_active": true,
     "accept_close": true,
-    "img_url": "/images/banner-game.png",
-    "link_to": "https://docs.verofarm.com/introduction/transparent/ido-whitelists"
+    "img_url": "/images/banner.png",
+    "link_to": "https://airdrop.zukimoba.com/airdrop-cmc"
   },
   "partner": [
     {
