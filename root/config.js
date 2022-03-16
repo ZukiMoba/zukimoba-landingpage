@@ -1,7 +1,7 @@
 {
   "vero_intro_sound": true,
   "banner": {
-    "is_active": true,
+    "is_active": false,
     "accept_close": true,
     "img_url": "https://soon.zukimoba.com/images/banner/banner-zuki-home.jpg",
     "link_to": "https://airdrop-nft.zukimoba.com/airdrop-cmc"
