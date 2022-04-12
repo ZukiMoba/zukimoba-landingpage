@@ -98,7 +98,7 @@
     {
       "label": "Instagram",
       "img_url": "/images/socials/instagram.png",
-      "link_to": "https://www.instagram.com/accounts/login/",
+      "link_to": "https://www.instagram.com/ZukiMoba/",
       "target": "_blank"
     },
     {
